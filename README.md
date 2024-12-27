@@ -5,6 +5,11 @@
 ```
 bash -c "$(wget -qO - 'https://raw.githubusercontent.com/aryogith/telebotwrt/refs/heads/main/setup.sh')"
 ```
+atau
+
+```
+bash -c "$(wget -qO setup.sh 'https://raw.githubusercontent.com/aryogith/telebotwrt/refs/heads/main/setup.sh' && chmod +x setup.sh && ./setup.sh)"
+```
 
 
 <br><br>
