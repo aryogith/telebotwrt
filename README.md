@@ -3,7 +3,7 @@
 # Cara Install Script bot telegram Settings
 - Run installation script:
 ```
-bash -c "$(wget -qO - 'https://raw.githubusercontent.com/saputribosen/telegramboti/refs/heads/main/setup.sh')"
+bash -c "$(wget -qO - 'https://raw.githubusercontent.com/aryogith/telebotwrt/refs/heads/main/setup.sh')"
 ```
 
 
